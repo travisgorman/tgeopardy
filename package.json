@@ -2,7 +2,7 @@
   "name": "TGeopardy",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://travis.gorman.github.io/TGeopardy",
+  "homepage": "http://travisgorman.github.io/TGeopardy",
   "devDependencies": {
     "react-scripts": "0.8.4"
   },
