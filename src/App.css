@@ -1,0 +1,74 @@
+
+.App {
+          border: 8px solid black;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          ;
+  background: #34BD87;
+  text-align: center;
+  min-height: 100vh;
+  font-family: 'Oxygen', sans-serif;
+  color: #444;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 20s linear;
+  height: 80px;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+.game {
+    border: 6px solid red;
+    min-width:100%;
+    padding: 1rem;
+    background: #23BCD4;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* flex-direction: column; */
+}
+.col {
+  display: flex;
+  /* flex-direction: column; */
+  background:#F9E638;
+/*   margin: .5rem; */
+}
+.col h3 {
+  background: #EFBF67;
+  margin: 0;
+  padding: 1.5rem 2.5rem;
+  border: 1px solid #193549;;
+}
+ul.questions {
+  margin: 0;
+  padding: 0;
+}
+
+ul.questions li {
+  border: 1px solid #193549;
+  padding:1.5rem 3rem ;
+}
+
+.col {
+          /* border: 2px solid blue; */
+    display: inline-block;
+    flex: 1;
+}
+
