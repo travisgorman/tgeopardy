@@ -1,3 +1,3 @@
 #[TGeopardy]()
-A Jeopardy game built with React.js
+A Jeopardy game built with React
 
