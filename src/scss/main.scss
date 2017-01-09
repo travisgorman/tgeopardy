@@ -1,0 +1,19 @@
+@import "_variables.scss";
+@import "header.scss";
+@import "loginSignupModals.scss";
+@import "gameboard.scss";
+@import "modal.scss";
+@import "column.scss";
+
+body {
+  font-family: sans-serif;
+  margin: 0;
+  font-size: 3rem;
+  // line-height: 1.5rem;
+  footer {
+    text-align: center;
+    // padding: 10%;
+    color: #FED75E;
+    margin: 0;
+  }
+}
